@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\ExoApi-Correto\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\ExoApi-Correto\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\ExoApi-Correto\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\ExoApi-Correto\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\ExoApi-Correto\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,7 +50,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
