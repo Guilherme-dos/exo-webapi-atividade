@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OPmgSdfppeTXMStB1jZuY/5SBbTnGIiub97iH3nxI9LAA/nHmEsjSJS4MCxCoLqTpx0PLYCPIlcBhmPas+yzTQ==",
+  "dgSpecHash": "/EYps/eMUs/xsdN3f2IE2kOYBL+wCw/kisNwznGj6YqldNespEvYGcSwqMsed9tYL/ZHV1TNjLrDh2lssW64Gg==",
   "success": true,
-  "projectFilePath": "C:\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Exo.WebApi-Novo\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
