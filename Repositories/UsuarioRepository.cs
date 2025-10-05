@@ -1,5 +1,5 @@
 using Exo.WebApi.Contexts;
-using Exo.WebApi.Models;
+using Exo.WebApi.Models;  // ← ESTA LINHA ESTAVA FALTANDO!
 using System.Collections.Generic;
 using System.Linq;
 
